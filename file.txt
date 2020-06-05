@@ -1,3 +1,8 @@
 Primer commit
 Segundo commit
+<<<<<<< HEAD
 Trabajo en feature1
+=======
+Trabajo en feature2 (primer commit)
+Trabajo en feature2 (segundo commit)
+>>>>>>> feature2
